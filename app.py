@@ -25,6 +25,13 @@ apps = [
         "desc": "Live news aggregator to catch signals early.",
     },
     {
+        "name": "Swing Momentum & Breakout Scan",
+        "url": "https://swingstock.streamlit.app/",
+        "tag": "Swing, Breakout Scanner",
+        "icon": "📡",
+        "desc": "Scanner the Swing/Breakout Tickers",
+    },
+    {
         "name": "Learning Date Report",
         "url": "https://ustock-infos.streamlit.app/",
         "tag": "Report",
