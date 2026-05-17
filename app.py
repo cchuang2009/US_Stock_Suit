@@ -38,6 +38,13 @@ apps = [
         "icon": "📋",
         "desc": "Daily reports for stock learning progress.",
     },
+    {
+        "name": "Cerebras Analysis, since 2026-05-14",
+        "url": "https://cerebras-app.streamlit.app/",
+        "tag": "Report",
+        "icon": "📋",
+        "desc": "Cerebras tracking",
+    },
 ]
 
 cols = st.columns(2)
